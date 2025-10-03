@@ -1,2 +1,2 @@
 # BMIApp
-First java project ever after self teaching myself all of it
+First Java project ever after self teaching myself literally all of it - works with arrays, enhanced for loops, and basics of object-oriented programming and inheritance to create hardcoded people with weights and heights in different units, calculate their BMI and declare whether they are within the healthy range. This was for my first assignment of the Java 2 course I took online at TRU. 
